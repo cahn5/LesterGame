@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5b244c1c91486b64d9239e0529c1e3c5
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 6d6e70f3061c74f4c98b68fd681c6a54
+  - enabled: 0
+    path: Assets/Scenes/MainLevel.unity
+    guid: 1737e292b95c1834988d4e41328331f6
+  - enabled: 1
+    path: Assets/Scenes/Village1.unity
+    guid: 473e97ce61ede344eace77ede736ebb6
+  - enabled: 1
+    path: Assets/Scenes/Village2.unity
+    guid: a806a28f633dd194dbcc146c3444e5e9
+  - enabled: 1
+    path: Assets/Scenes/startingVillage.unity
+    guid: e16b32b1ea0a47f48a49518748c34ade
+  - enabled: 1
+    path: Assets/Scenes/Pathway4.unity
+    guid: babfb73aaa4b2684b901c961ed01b920
+  - enabled: 1
+    path: Assets/Scenes/Pathway3.unity
+    guid: f762c79e0f2576c42bb26d2f85065016
+  - enabled: 1
+    path: Assets/Scenes/Pathway2.unity
+    guid: 9d2aebf3336d8c044a7d7b4fb8dbe67f
+  - enabled: 1
+    path: Assets/Scenes/Pathway1.unity
+    guid: 467a66c366be7a14fb626498075ba89a
+  - enabled: 1
+    path: Assets/Scenes/EndLevel.unity
+    guid: 60f0e95caca36834d925762ac370c5b4
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 728ccc8c8fd236f4aa582893bfe9b6d2
+  - enabled: 1
+    path: Assets/Scenes/back_EndLevel.unity
+    guid: 1d1f6b008f3fde6458ee20479f2d0984
+  - enabled: 1
+    path: Assets/Scenes/back_Pathway1.unity
+    guid: bedbf7d7a66d45e4280e56332967d81f
+  - enabled: 1
+    path: Assets/Scenes/back_Pathway2.unity
+    guid: c861bd597db5fd7458db7f1dde327932
+  - enabled: 1
+    path: Assets/Scenes/back_Pathway3.unity
+    guid: 397af2c1f28f77e4abc359eb7645739e
+  - enabled: 1
+    path: Assets/Scenes/back_startingVillage.unity
+    guid: f760ab7c41263324d8bfd8322f2a28e8
+  - enabled: 1
+    path: Assets/Scenes/back_Tutorial.unity
+    guid: 0a936191e5dd487408f61f0ddc0129d3
+  - enabled: 1
+    path: Assets/Scenes/back_Village1.unity
+    guid: 8113ff64f5dad9b428c5f670b1b6f2f0
+  - enabled: 1
+    path: Assets/Scenes/back_Village2.unity
+    guid: 2b711aebc9202294dabfdb21a9e77ef3
+  - enabled: 1
+    path: Assets/Scenes/respawn_startingVillage.unity
+    guid: 152f1d754b3db494c887cf0f69ff0aeb
+  - enabled: 1
+    path: Assets/Scenes/respawn_Village1.unity
+    guid: 8048781bc03af004c8c7f3e4301cd865
+  - enabled: 1
+    path: Assets/Scenes/respawn_Village2.unity
+    guid: 6f7d4d68ed6874b4f85e0be6feb13dca
+  m_configObjects: {}
